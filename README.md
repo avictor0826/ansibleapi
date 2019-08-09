@@ -5,7 +5,7 @@ Wrapper API to trigger playbooks using Webservice
 
 To Execute
 ```
-git clone https://git.supervalu.com/mw-web/armory/ansibleapi.git
+git clone https://github.com/avictor0826/ansibleapi.git 
 pip install requirements.txt
 python app.py
 ```
